@@ -1,6 +1,6 @@
 {
   "ENV": {
-    "backendUrl": "http://api.vjencanje.online:80",
+    "backendUrl": "https://photobooth-cloud-api.italk.hr",
     "enableLogging": true
   }
 }
